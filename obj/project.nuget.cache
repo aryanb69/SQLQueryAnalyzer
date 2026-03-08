@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lTYMl577Mkc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEGION\\Desktop\\QueryOptimizer-C#\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\oracle.manageddataaccess.core\\23.26.100\\oracle.manageddataaccess.core.23.26.100.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\system.directoryservices.protocols\\8.0.2\\system.directoryservices.protocols.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
